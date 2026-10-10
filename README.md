@@ -1,4 +1,7 @@
 # COMP642 - Group Project
+
+GitHub Repo: https://github.com/nexus1976/COMP642
+
 ### Team
 - Jean Paul Collazo
 - Janeth Lucero Garcia Rodriguez

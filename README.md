@@ -4,6 +4,11 @@
 - Janeth Lucero Garcia Rodriguez
 - Daniel Graham
 
+## Deliverables
+- [Final Report](./COMP642%20-%20Group%204%20Final%20Report.pdf)
+- [Presentation Slides](./COMP642%20-%20Group%204%20Presentation%20Slides.pdf)
+- Application (everything that follows in this `README.md` and Git repository)
+
 ## Application
 All dependent components are composable locally with Docker. Simply run the following command at the root of this repo:
 `docker compose up -d`
